@@ -1,16 +1,11 @@
 # appgridview
 
-A new Flutter project.
+Usando GridView
 
-## Getting Started
+    Crie um layout usando GridView com 4 quadrados de cores diferentes.
+        Cada quadrado deve ser um Container com um texto no centro.
 
-This project is a starting point for a Flutter application.
+Objetivos:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Praticar a criação de interfaces em grade.
+    Aprender a manipular layouts dinâmicos que se ajustam ao tamanho da tela
